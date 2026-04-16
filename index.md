@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+IT 138 Linux Technical Blog
 
-Maybe say a some things about yourself.
+by Jo Alvarez.
 
-Or maybe what you plan to blog about.
+Welcome to my learning journey!
